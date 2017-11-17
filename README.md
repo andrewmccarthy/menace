@@ -10,7 +10,7 @@ an entirely different set of board states and matchboxes are needed.
 
 It struck me that you could set up two machines, one to go first and one to go
 second, and play them against so they both learn how to play. In this
-implementation the machines play each other 300 times, and then play the human
+implementation the machines play each other 1000 times, and then play the human
 twice, once as machine first, once as human first.
 
 ## Learning summary
